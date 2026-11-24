@@ -1,0 +1,3 @@
+cursor blinks at three
+one log line gives me away
+and the bug was me
